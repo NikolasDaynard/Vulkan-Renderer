@@ -1,0 +1,22 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9B76F7F7455EC6A07EA1AD0D4AAF24D2E732CD1B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B3F6FB3F-AB9A-4DA1-8E1B-D767AFC7D049",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9B76F7F7455EC6A07EA1AD0D4AAF24D2E732CD1B" : "..\/..\/..\/opt\/homebrew"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VulkanTesting2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VulkanTesting2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Homebrew\/brew",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9B76F7F7455EC6A07EA1AD0D4AAF24D2E732CD1B"
+    }
+  ]
+}
