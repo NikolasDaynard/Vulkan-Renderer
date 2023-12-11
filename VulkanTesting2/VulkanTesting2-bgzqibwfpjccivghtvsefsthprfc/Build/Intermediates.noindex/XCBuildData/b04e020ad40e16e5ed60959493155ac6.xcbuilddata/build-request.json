@@ -1,0 +1,56 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "c258b4e938e62f7c0b46dc742288f5d8d5e23dcf391b4cd4758175348f8cea15"
+    }
+  ],
+  "containerPath" : "/Users/nikolasdaynard/VulkanTesting/VulkanTesting2/VulkanTesting2.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/nikolasdaynard/VulkanTesting/VulkanTesting2/VulkanTesting2/VulkanTesting2-bgzqibwfpjccivghtvsefsthprfc/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/nikolasdaynard/VulkanTesting/VulkanTesting2/VulkanTesting2/VulkanTesting2-bgzqibwfpjccivghtvsefsthprfc/Build/Products",
+      "derivedDataPath" : "/Users/nikolasdaynard/VulkanTesting/VulkanTesting2/VulkanTesting2",
+      "indexDataStoreFolderPath" : "/Users/nikolasdaynard/VulkanTesting/VulkanTesting2/VulkanTesting2/VulkanTesting2-bgzqibwfpjccivghtvsefsthprfc/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/nikolasdaynard/VulkanTesting/VulkanTesting2/VulkanTesting2/VulkanTesting2-bgzqibwfpjccivghtvsefsthprfc/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/nikolasdaynard/VulkanTesting/VulkanTesting2/VulkanTesting2/VulkanTesting2-bgzqibwfpjccivghtvsefsthprfc/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
